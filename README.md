@@ -1,6 +1,6 @@
 <div align="center">
 <kbd>
-<img src="assets/images/profile-image.png" width="50" height="50">
+<img src="assets/images/profile-image.png" width="200" height="200">
 </kbd>
 </div>
 
