@@ -10,4 +10,4 @@
 
 [My Portfolio Website](https://aeparson.github.io)
 
-### If you are interested in learning or inquiring about my experience and projects, please feel free to reach out to me by phone: 671.977.6069 or by email: arcadia.parson@gmail.com. 
+### If you are interested in learning or inquiring about my experience and projects, please feel free to reach out to me by phone: 913.424.0755 or by email: arcadia.parson@gmail.com. 
